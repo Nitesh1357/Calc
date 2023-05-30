@@ -1,4 +1,4 @@
-# Calc
+# Calc let' grow more internship task
 Calculator (HTML, CSS, JavaScript)
 Calc is a simple calculator web application built using HTML, CSS, and JavaScript. It allows users to perform basic arithmetic calculations such as addition, subtraction, multiplication, and division.
 
